@@ -1,0 +1,13 @@
+{
+	"start": {
+		"hours": "00",
+		"minutes": "00"
+	},
+	"end": {
+		"hours": "00",
+		"minutes": "00"
+	},
+	"light": 0,
+	"aeration": 1,
+	"override": "27/10/2020 17:58"
+}
